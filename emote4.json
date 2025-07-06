@@ -4,6 +4,7 @@
 "抱き合う" : "/embrace",
 "企みを話す" : "/scheme",
 "戦いに備える" : "/battlestance",
+"タブレットで自分の姿を記録する" : "/visage",
 "-13" : "-",
 "力を高める" : "/powerup",
 "注意をする" : "/reprimand",
@@ -12,6 +13,7 @@
 "つつく" : "/poke",
 "-15" : "-",
 "帝国式敬礼" : "/imperialsalute",
+"手品をする" : "/magictrick",
 "手まねきする" : "/beckon",
 "照れる" : "/blush",
 "手を振る" : "/wave",
@@ -21,5 +23,6 @@
 "東方風のお辞儀をする" : "/easternbow",
 "東方の伝統舞踊を踊る" : "/easterndance",
 "トームストーンを愛でる" : "/tomestone",
+"トームストーンを愛で続ける" : "/tomescroll",
 "土下座をする" : "/grovel"
 }
